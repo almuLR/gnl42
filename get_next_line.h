@@ -6,7 +6,7 @@
 /*   By: almlopez <almlopez@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/23 12:22:07 by almlopez          #+#    #+#             */
-/*   Updated: 2025/02/23 12:50:32 by almlopez         ###   ########.fr       */
+/*   Updated: 2025/02/23 17:39:48 by almlopez         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,5 +15,7 @@
 
 #include <stdlib.h>
 #include <unistd.h>
+
+char	*ft_strchr(const char *s, int c);
 
 #endif
